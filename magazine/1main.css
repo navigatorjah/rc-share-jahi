@@ -1,0 +1,44 @@
+p{
+  font-size: 25px;
+  font-style:normal;
+  font-size-adjust: auto;
+  color: #FF1A9E  
+}
+
+h2{
+  font-size: 30px;
+  float: left 2px;
+  color: red;
+  font-family: Georgia, serif; 
+}
+ body{
+  background-image:  url(https://s-media-cache-ak0.pinimg.com/236x/88/9d/96/889d96ffb5b22b8ce7c0132319a091b9.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 120%
+  padding: all;
+  height: 70% 
+}
+
+
+footer{
+  color: #CF2F12;
+  font-size: 25px  
+}
+
+h1{
+  font-size: 80px;
+}
+
+.container {
+  display: flex; border: auto;
+  flex-direction: column-reverse;
+}
+
+.boxh2 {border: all;}
+
+div {
+  border: 5px transparant; 
+}
+
+
